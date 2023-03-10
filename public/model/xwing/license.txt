@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lego X-Wing
+* source:	https://sketchfab.com/3d-models/lego-x-wing-427878f9db0d45d5909c7d2729375ed4
+* author:	gamorgan (https://sketchfab.com/gamorgan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lego X-Wing" (https://sketchfab.com/3d-models/lego-x-wing-427878f9db0d45d5909c7d2729375ed4) by gamorgan (https://sketchfab.com/gamorgan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
