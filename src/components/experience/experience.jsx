@@ -19,6 +19,13 @@ export default function Experience() {
 			<directionalLight
 				castShadow
 				position={[3, 1, 0.5]}
+				intensity={1}
+				shadow-normalBias={0.09}
+				color={"#e8dfdd"}
+			/>
+			<directionalLight
+				castShadow
+				position={[-3, 1, 0.5]}
 				intensity={1.5}
 				shadow-normalBias={0.09}
 				color={"#e8dfdd"}
@@ -26,8 +33,6 @@ export default function Experience() {
 			<OrbitControls
 				enableDamping={true}
 				enablePan={false}
-				minPolarAngle={Math.PI / 2.06}
-				maxPolarAngle={0}
 				dampingFactor={0.05}
 				rotateSpeed={0.3}
 				maxDistance={8.0}
