@@ -15,7 +15,14 @@ export default function Experience() {
 				position: [0, 0, 6],
 			}}
 		>
-			<ambientLight intensity={0.8} />
+			<ambientLight intensity={0.3} />
+			<directionalLight
+				castShadow
+				position={[3, 1, 0.5]}
+				intensity={1.5}
+				shadow-normalBias={0.09}
+				color={"#e8dfdd"}
+			/>
 			<OrbitControls
 				enableDamping={true}
 				enablePan={false}
