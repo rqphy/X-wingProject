@@ -8,7 +8,7 @@ export default function Xwing() {
 	return (
 		<primitive
 			object={xwing.scene}
-			position={[0.3, 0, 0]}
+			position={[0.3, -0.5, 0]}
 			scale={0.01}
 			rotation={[0, Math.PI, 0]}
 		/>
