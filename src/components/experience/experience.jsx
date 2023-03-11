@@ -30,14 +30,14 @@ export default function Experience() {
 				shadow-normalBias={0.09}
 				color={"#e8dfdd"}
 			/>
-			<OrbitControls
+			{/* <OrbitControls
 				enableDamping={true}
 				enablePan={false}
 				dampingFactor={0.05}
 				rotateSpeed={0.3}
 				maxDistance={8.0}
 				minDistance={3.8}
-			/>
+			/> */}
 			<Xwing />
 		</Canvas>
 	)
